@@ -1,9 +1,9 @@
 <?php 
+<<<<<<< HEAD
+$a = 20;
+=======
 $a= 1;
-for($i = 0; $i<=$a ; $i++)
-{
-	echo $i;
-}
+>>>>>>> 3009343326121842c471b52d15b657fdcabb0b95
 $version = apache_get_version(); 
 echo "$version\n"; 
 phpinfo();
